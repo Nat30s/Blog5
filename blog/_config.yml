@@ -21,7 +21,7 @@ category_dir: /
 baseurl: /Blog5/blog
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://yourdomain.com/
+url: http://nat30s.github.io/Blog5
 
 #### Under the Hood Stuff #####
 
